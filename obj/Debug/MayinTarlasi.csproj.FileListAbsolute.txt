@@ -1,0 +1,11 @@
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe.config
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.exe
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\bin\Debug\MayinTarlasi.pdb
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.AssemblyReference.cache
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Form1.resources
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.Properties.Resources.resources
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.exe
+C:\Users\bakma\source\repos\MayinTarlasi\MayinTarlasi\obj\Debug\MayinTarlasi.pdb
